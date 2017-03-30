@@ -6,12 +6,12 @@
   - php 5.5.x
     - [vc11 x86 nts](https://github.com/imaben/php-beast-binaries/raw/master/php55/php_beast_x86_nts.dll)
     - vc11 x86 ts
-    - vc11 x64 nts
+    - [vc11 x64 nts](https://github.com/imaben/php-beast-binaries/raw/master/php55/php_beast_x64_nts.dll)
     - vc11 x64 ts
   - php 5.6.x
     - [vc11 x86 nts](https://github.com/imaben/php-beast-binaries/raw/master/php56/php_beast_x86_nts.dll)
     - vc11 x86 ts
-    - vc11 x64 nts
+    - [vc11 x64 nts](https://github.com/imaben/php-beast-binaries/raw/master/php56/php_beast_x64_nts.dll)
     - vc11 x64 ts
   
 - **php 7**
