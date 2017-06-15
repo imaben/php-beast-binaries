@@ -17,9 +17,9 @@
 - **php 7**
   - php 7.0.x
     - [vc14 x86 nts](https://github.com/imaben/php-beast-binaries/raw/master/php70/php_beast_x86_nts.dll)
-    - vc14 x86 ts
+    - [vc14 x86 ts](https://github.com/imaben/php-beast-binaries/raw/master/php70/php_beast_x86_ts.dll)
     - [vc14 x64 nts](https://github.com/imaben/php-beast-binaries/raw/master/php70/php_beast_x64_nts.dll)
-    - vc14 x64 ts
+    - [vc14 x64 ts](https://github.com/imaben/php-beast-binaries/raw/master/php70/php_beast_x64_ts.dll)
   - php 7.1.x
     - [vc14 x86 nts](https://github.com/imaben/php-beast-binaries/raw/master/php71/php_beast_x86_nts.dll)
     - [vc14 x86 ts](https://github.com/imaben/php-beast-binaries/raw/master/php71/php_beast_x86_ts.dll)
