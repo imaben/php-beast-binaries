@@ -25,3 +25,8 @@
     - [vc14 x86 ts](https://github.com/imaben/php-beast-binaries/raw/master/php71/php_beast_x86_ts.dll)
     - [vc14 x64 nts](https://github.com/imaben/php-beast-binaries/raw/master/php71/php_beast_x64_nts.dll)
     - [vc14 x64 ts](https://github.com/imaben/php-beast-binaries/raw/master/php71/php_beast_x64_ts.dll)
+
+
+**常见问题**
+
+- IIS环境下FastCGI进程异常退出：尝试将IIS的运行用户从`ApplicationPoolIdentity`改为`LocalSystem`
