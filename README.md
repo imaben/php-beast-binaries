@@ -1,6 +1,6 @@
 # php-beast-binaries
 
-[php-beast](https://github.com/liexusong/php-beast) of windows 
+[php-beast](https://github.com/liexusong/php-beast) for windows 
 
 - **php 5**
   - php 5.5.x
