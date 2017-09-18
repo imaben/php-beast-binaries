@@ -3,6 +3,12 @@
 [php-beast](https://github.com/liexusong/php-beast) for windows 
 
 - **php 5**
+  - php 5.3.x
+    - [vc9 x86 nts](https://github.com/imaben/php-beast-binaries/raw/master/php53/php_beast_x86_nts.dll)
+    - [vc9 x86 ts](https://github.com/imaben/php-beast-binaries/raw/master/php53/php_beast_x86_ts.dll)
+  - php 5.4.x
+    - [vc9 x86 nts](https://github.com/imaben/php-beast-binaries/raw/master/php54/php_beast_x86_nts.dll)
+    - [vc9 x86 ts](https://github.com/imaben/php-beast-binaries/raw/master/php54/php_beast_x86_ts.dll)
   - php 5.5.x
     - [vc11 x86 nts](https://github.com/imaben/php-beast-binaries/raw/master/php55/php_beast_x86_nts.dll)
     - [vc11 x86 ts](https://github.com/imaben/php-beast-binaries/raw/master/php55/php_beast_x86_ts.dll)
