@@ -31,7 +31,11 @@
     - [vc14 x86 ts](https://github.com/imaben/php-beast-binaries/raw/master/php71/php_beast_x86_ts.dll)
     - [vc14 x64 nts](https://github.com/imaben/php-beast-binaries/raw/master/php71/php_beast_x64_nts.dll)
     - [vc14 x64 ts](https://github.com/imaben/php-beast-binaries/raw/master/php71/php_beast_x64_ts.dll)
-
+   - php 7.2.x
+      - [vc15 x86 nts](https://github.com/imaben/php-beast-binaries/raw/master/php72/php_beast_x86_nts.dll)
+     - [vc15 x86 ts](https://github.com/imaben/php-beast-binaries/raw/master/php72/php_beast_x86_ts.dll)
+      - [vc15 x64 nts](https://github.com/imaben/php-beast-binaries/raw/master/php72/php_beast_x64_nts.dll)
+      - [vc15 x64 ts](https://github.com/imaben/php-beast-binaries/raw/master/php72/php_beast_x64_ts.dll)
 
 **常见问题**
 
